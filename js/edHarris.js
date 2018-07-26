@@ -10,6 +10,12 @@ function closeMenu() {
 
 $(document).ready(function() {
 
+	$('#fadeImage').hide();
+	$('#fadeImage').fadeIn(2000);
+
+	$('.content_heading').hide();
+	$('.content_heading').fadeIn(2000);
+
 	$('.media_menu .close').hide();
 
 	$('.media_menu img').on('click', function() {
