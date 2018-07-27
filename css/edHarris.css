@@ -236,6 +236,9 @@ footer img {
 	.hero_pga img {
 		width: 20%;
 	}
+	.content_heading h1 {
+		font-size: 25px;
+	}
 }
 
 /* -- Home Styles -- */
