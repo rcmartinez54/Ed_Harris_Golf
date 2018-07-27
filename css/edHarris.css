@@ -159,10 +159,10 @@ nav ul li:hover {
   top: 0;
 }
 .hamburger .two, .hamburger .three {
-  top: 10px;
+  top: 15px;
 }
 .hamburger .four {
-  top: 20px;
+  top: 30px;
 }
 
 .hamburger.open .one, .hamburger.open .four {
