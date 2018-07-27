@@ -227,6 +227,9 @@ footer img {
 		width: 47%;
 		font-size: 12px;
 	}
+	.hero_text h1 {
+		font-size: 2em;
+	}
 	.hero_logo img {
 		width: 85%;
 	}
